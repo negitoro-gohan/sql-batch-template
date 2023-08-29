@@ -1,0 +1,6 @@
+{
+  "server": "TESTSERVER\\TESTINSTANCE",
+  "database": "TESTDB",
+  "user": "testuser",
+  "password": "testpassword"
+}
